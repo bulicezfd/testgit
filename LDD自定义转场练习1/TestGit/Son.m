@@ -12,6 +12,6 @@
 - (void)test2
 {
     NSLog(@"son999");
-    
+    NSLog(@"son999");
 }
 @end
