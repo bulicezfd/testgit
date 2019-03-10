@@ -11,7 +11,7 @@
 @implementation Son
 - (void)test2
 {
-  
+    NSLog(@"son999");
     
 }
 @end
